@@ -4,6 +4,12 @@
   </a>
 </p>
 
+# 欢迎参加飞书「写给AI先锋的诗」活动
+让最懂你的工作伙伴，讲述你的故事
+
+[参与入口](https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1): https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
+
+
 <h2 align="center">chinese-poetry: 最全中文诗歌古典文集数据库</h2>
 
 <p align="center">
